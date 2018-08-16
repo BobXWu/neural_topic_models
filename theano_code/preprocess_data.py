@@ -6,7 +6,7 @@ from collections import Counter
 import numpy as np
 from scipy import sparse
 from scipy.io import savemat
-from spacy.en import English
+from spacy.lang.en import English
 
 import file_handling as fh
 
